@@ -1,3 +1,9 @@
+This is a customized Fork of aFarkas Webshim.
+============================================
+* Removed some modules (wrong license for my project)
+* Fixed an I18N issue with french month picker on Firefox.
+
+
 [Webshim](http://aFarkas.github.com/webshim/demos/index.html)
 ================================
 
